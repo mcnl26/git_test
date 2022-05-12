@@ -1,2 +1,4 @@
 add text
 new text added
+add new line    
+cd 
